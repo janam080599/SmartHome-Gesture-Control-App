@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:43:13-47
+	android:authorities
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:40:13-60
+	android:exported
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:41:13-62
+manifest
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8d6c7aabfbae8361a9056a873c6c75b3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c6a8366d371211c9f71339e1ade4f6c9\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fd79494f1059d767a47ec471258eb36\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f06cef45415ed268e4308322986b7f5e\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f04f77f5bf22057a29bdffafb3270f20\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f878953d4781a402b80734799902f3e8\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cdc0433ce9c50434f3011daedf149b11\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2885d5772086870c94195c63fa276615\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fd34e6c7bb6b40f5dc7ab5ef05bff03\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a55688af45cc26894515930f7598b4c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\1c1a24d07529602a83969631f82df401\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cd726bbf668fec222f35b93305537a1a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6f33fe81569f5e27184548555167ae33\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0834b5ba5a2069827b66ec2381cce9a4\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6fbeb392f5263fd9571c6041381d2d25\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d14f6470b547ce5ae2701b2d767fb9b7\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ed330fb2d858941c2957d823b228b45\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f2165b5aadd8240067c4b23c7657534c\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\01ade03959c1c13ef48bfb122fa6a255\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0c98e9828a7e26327831536335f7b51c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d45b0db811be7a6f30e22e717abe7f1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3fd51b2107f1db317f317180764e092e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e041dee3fc7fec0e0ebca50f62b8e1d5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8ceadbf92efc7695e7aa88f4dd20b9e0\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\acdfb9851710432af40207a0c042e0b5\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\efac436d8c04890bca8bb9058875ff1f\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2c6ed7427685c82245fefb4f484ad956\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5dc5c553a456d635ccbee2de60fc3da6\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cde97eab44096f963e476f69e8f65419\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\258fa27d6ce4fb06392c49a9ce083fed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3358575c28644f76e4b2d0f766cdc30a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d1105f9e301635c6ab86112188fc15e5\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2853cf8be6718e8802a424e16e62801d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\beb36a322ae29d89bb540ad38a6ee5f4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e2134a40a07cc3350778b4c8abd1db74\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\114a622fec656462bc0d7d1c707521d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e89731130edffa1dffd564c019907dd1\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\658ad5e1bd90683ba67711911d9af5c0\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14a5eeb387199911b98187ed28662f66\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:6:5-90
+	android:required
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:6:64-87
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:6:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#ACCESS_FIND_LOCATION
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:9:22-57
+uses-permission#ACCESS_COURSE_LOCATION
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:10:5-62
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:10:22-59
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.hardware.camera2
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:12:5-63
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:12:22-61
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:19:5-49:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fd79494f1059d767a47ec471258eb36\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fd79494f1059d767a47ec471258eb36\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f06cef45415ed268e4308322986b7f5e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f06cef45415ed268e4308322986b7f5e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cdc0433ce9c50434f3011daedf149b11\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cdc0433ce9c50434f3011daedf149b11\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2c6ed7427685c82245fefb4f484ad956\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2c6ed7427685c82245fefb4f484ad956\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:26:9-61
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:25:9-44
+activity#com.example.smarthomegesturecontrol.Practice_Record_Activity
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:27:9-28:61
+	android:screenOrientation
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:27:19-59
+activity#com.example.smarthomegesturecontrol.Play_Demo_Activity
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:29:19-53
+activity#com.example.smarthomegesturecontrol.MainActivity
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8d6c7aabfbae8361a9056a873c6c75b3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8d6c7aabfbae8361a9056a873c6c75b3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c6a8366d371211c9f71339e1ade4f6c9\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c6a8366d371211c9f71339e1ade4f6c9\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fd79494f1059d767a47ec471258eb36\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fd79494f1059d767a47ec471258eb36\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f06cef45415ed268e4308322986b7f5e\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f06cef45415ed268e4308322986b7f5e\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f04f77f5bf22057a29bdffafb3270f20\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f04f77f5bf22057a29bdffafb3270f20\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f878953d4781a402b80734799902f3e8\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f878953d4781a402b80734799902f3e8\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cdc0433ce9c50434f3011daedf149b11\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cdc0433ce9c50434f3011daedf149b11\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2885d5772086870c94195c63fa276615\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2885d5772086870c94195c63fa276615\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fd34e6c7bb6b40f5dc7ab5ef05bff03\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fd34e6c7bb6b40f5dc7ab5ef05bff03\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a55688af45cc26894515930f7598b4c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2a55688af45cc26894515930f7598b4c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\1c1a24d07529602a83969631f82df401\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\1c1a24d07529602a83969631f82df401\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cd726bbf668fec222f35b93305537a1a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cd726bbf668fec222f35b93305537a1a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6f33fe81569f5e27184548555167ae33\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6f33fe81569f5e27184548555167ae33\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0834b5ba5a2069827b66ec2381cce9a4\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0834b5ba5a2069827b66ec2381cce9a4\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6fbeb392f5263fd9571c6041381d2d25\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\6fbeb392f5263fd9571c6041381d2d25\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d14f6470b547ce5ae2701b2d767fb9b7\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d14f6470b547ce5ae2701b2d767fb9b7\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ed330fb2d858941c2957d823b228b45\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5ed330fb2d858941c2957d823b228b45\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f2165b5aadd8240067c4b23c7657534c\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\f2165b5aadd8240067c4b23c7657534c\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\01ade03959c1c13ef48bfb122fa6a255\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\01ade03959c1c13ef48bfb122fa6a255\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0c98e9828a7e26327831536335f7b51c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0c98e9828a7e26327831536335f7b51c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d45b0db811be7a6f30e22e717abe7f1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d45b0db811be7a6f30e22e717abe7f1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3fd51b2107f1db317f317180764e092e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3fd51b2107f1db317f317180764e092e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e041dee3fc7fec0e0ebca50f62b8e1d5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e041dee3fc7fec0e0ebca50f62b8e1d5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8ceadbf92efc7695e7aa88f4dd20b9e0\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8ceadbf92efc7695e7aa88f4dd20b9e0\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\acdfb9851710432af40207a0c042e0b5\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\acdfb9851710432af40207a0c042e0b5\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\efac436d8c04890bca8bb9058875ff1f\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\efac436d8c04890bca8bb9058875ff1f\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\befc2dc96900548f9aad9ed621d97901\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2c6ed7427685c82245fefb4f484ad956\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2c6ed7427685c82245fefb4f484ad956\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5dc5c553a456d635ccbee2de60fc3da6\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5dc5c553a456d635ccbee2de60fc3da6\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cde97eab44096f963e476f69e8f65419\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cde97eab44096f963e476f69e8f65419\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\258fa27d6ce4fb06392c49a9ce083fed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\258fa27d6ce4fb06392c49a9ce083fed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3358575c28644f76e4b2d0f766cdc30a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3358575c28644f76e4b2d0f766cdc30a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d1105f9e301635c6ab86112188fc15e5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d1105f9e301635c6ab86112188fc15e5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2853cf8be6718e8802a424e16e62801d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\2853cf8be6718e8802a424e16e62801d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\beb36a322ae29d89bb540ad38a6ee5f4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\beb36a322ae29d89bb540ad38a6ee5f4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e2134a40a07cc3350778b4c8abd1db74\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e2134a40a07cc3350778b4c8abd1db74\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\114a622fec656462bc0d7d1c707521d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\114a622fec656462bc0d7d1c707521d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e89731130edffa1dffd564c019907dd1\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e89731130edffa1dffd564c019907dd1\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\658ad5e1bd90683ba67711911d9af5c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\658ad5e1bd90683ba67711911d9af5c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14a5eeb387199911b98187ed28662f66\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\14a5eeb387199911b98187ed28662f66\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:44:13-46:57
+	android:resource
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:46:17-55
+	android:name
+		ADDED from C:\Users\Dell\Documents\Smart Home Gesture Control\app\src\main\AndroidManifest.xml:45:17-67
